@@ -11,6 +11,6 @@ impl Strategy for Part1 {
                 return guess
             }
         }
-        return min
+        return 0
     }
 }
